@@ -1,0 +1,5 @@
+selenium==4.14.0   # Versión de Selenium
+behave==1.2.6      # Versión de Behave
+allure-behave==2.9.45  # Soporte de Allure para Behave
+webdriver-manager==4.0.0  # Facilita la administración de controladores de navegador
+pyyaml

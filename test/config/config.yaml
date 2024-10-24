@@ -1,0 +1,7 @@
+base_url: "https://akyo.com.mx/lab_cypress/login_Dev.html"
+base_url_UAT: "https://akyo.com.mx/lab_cypress/login.html"
+username: "username"
+password: "password"
+timeout: 10
+
+
